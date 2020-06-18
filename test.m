@@ -1,0 +1,1 @@
+check = load('predic_mat.mat');
